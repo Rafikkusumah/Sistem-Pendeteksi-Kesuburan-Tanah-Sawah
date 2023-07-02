@@ -12,7 +12,7 @@ Data yang dikumpulkan oleh sensor-sensor tersebut akan dikirim ke platform Inter
 - Soil Moisture Sensor (untuk mendeteksi kelembaban tanah)
 - pH Probe (untuk mendeteksi nilai pH tanah)
 - TCS3200 (untuk mendeteksi warna tanah)
-![Desain Alat]images/WiringDesain.png
+![Desain Alat](images/WiringDesain.png)
 
 ## Penjelasan Kode Sumber
 - `Get-Data-Set.ino`: Kode sumber utama yang berisi konfigurasi dan logika pembacaan data dari sensor.
@@ -34,7 +34,7 @@ Data yang dikumpulkan oleh sensor-sensor tersebut akan dikirim ke platform Inter
 3. Pasang program menggunakan Arduino IDE.
 4. Periksa koneksi Wi-Fi pada ESP8266 dan pastikan dapat terhubung ke internet.
 5. Akses dashboard pada Thingspeak untuk melihat data yang dikirimkan oleh sensor.
-![Output Thingspeak]images/OutputThinhspeak.png
+![Output Thingspeak](images/OutputThinhspeak.png)
 ## Lisensi
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
